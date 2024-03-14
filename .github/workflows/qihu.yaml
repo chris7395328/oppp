@@ -13,7 +13,7 @@
 #-------------------------------------------------------------------------------------------------------
 
 # Workflow name which is showed in GitHub Actions.
-name: 360v6
+name: qihu
 
 on:
   workflow_dispatch:
